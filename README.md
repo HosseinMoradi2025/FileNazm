@@ -189,10 +189,13 @@ D:\Sorted\{year}\{month}\{name}.{ext}
 - 📥 دانلود فایل نصب:  
   [https://github.com/HosseinMoradi2025/FileNazm/releases/tag/v1.0.0](https://github.com/HosseinMoradi2025/FileNazm/releases/tag/v1.0.0)
 
-- 💬 نظرات، پرسش‌ها و پیشنهادات:  
+- 💬 بخش نظرات و پرسش‌ها:  
   [https://github.com/HosseinMoradi2025/FileNazm/discussions/1](https://github.com/HosseinMoradi2025/FileNazm/discussions/1)
 
 ---
 
-📝 برای ثبت نظر، پیشنهاد یا گزارش مشکل به این بخش مراجعه کنید:  
-[نظرات و پرسش‌ها درباره فایل‌نظم](https://github.com/HosseinMoradi2025/FileNazm/discussions/1]
+## 📝 بخش نظرات و پرسش‌ها
+
+برای ثبت نظر، پیشنهاد یا گزارش مشکل، به بخش نظرات و پرسش‌ها مراجعه کنید:
+
+[نظرات و پرسش‌ها درباره فایل‌نظم](https://github.com/HosseinMoradi2025/FileNazm/discussions/1)
