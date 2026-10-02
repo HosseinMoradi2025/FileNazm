@@ -170,9 +170,6 @@ D:\Sorted\{year}\{month}\{name}.{ext}
 - دانلود فایل نصب:  
   [https://github.com/HosseinMoradi2025/FileNazm/releases/tag/v1.0.0](https://github.com/HosseinMoradi2025/FileNazm/releases/tag/v1.0.0)
 
-- نظرات، پرسش‌ها و پیشنهادات:  
-  [https://github.com/HosseinMoradi2025/FileNazm/discussions/1](https://github.com/HosseinMoradi2025/FileNazm/discussions/1)
-
 ---
 
 برای ثبت نظر، پیشنهاد یا گزارش مشکل به این بخش مراجعه کنید:  
