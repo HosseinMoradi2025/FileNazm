@@ -195,4 +195,4 @@ D:\Sorted\{year}\{month}\{name}.{ext}
 ---
 
 📝 برای ثبت نظر، پیشنهاد یا گزارش مشکل به این بخش مراجعه کنید:  
-[نظرات و پرسش‌ها درباره فایل‌نظم](https://github.com/HosseinMoradi2025/FileNazm/discussions/1)
+[نظرات و پرسش‌ها درباره فایل‌نظم](https://github.com/HosseinMoradi2025/FileNazm/discussions/1]
