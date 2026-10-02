@@ -1,201 +1,165 @@
-                                 Apache License
-                           Version 2.0, January 2004
-                        http://www.apache.org/licenses/
+FileNazm Custom License 1.0
+لایسنس اختصاصی فایل‌نظم نسخه ۱.۰
 
-   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+Copyright (c) 2026 Hossein Moradi
+کپی‌رایت © ۲۰۲۶ حسین مرادی
 
-   1. Definitions.
+این نرم‌افزار و سورس کد آن تحت شرایط زیر ارائه می‌شود. با دانلود، نصب، کپی، استفاده، تغییر، توزیع یا فروش این نرم‌افزار، شما این شرایط را می‌پذیرید.
 
-      "License" shall mean the terms and conditions for use, reproduction,
-      and distribution as defined by Sections 1 through 9 of this document.
+────────────────────────────────────────
+۱. اجازه استفاده / Grant of License
+────────────────────────────────────────
 
-      "Licensor" shall mean the copyright owner or entity authorized by
-      the copyright owner that is granting the License.
+به شما اجازه داده می‌شود که از این نرم‌افزار و سورس کد آن برای موارد زیر استفاده کنید:
 
-      "Legal Entity" shall mean the union of the acting entity and all
-      other entities that control, are controlled by, or are under common
-      control with that entity. For the purposes of this definition,
-      "control" means (i) the power, direct or indirect, to cause the
-      direction or management of such entity, whether by contract or
-      otherwise, or (ii) ownership of fifty percent (50%) or more of the
-      outstanding shares, or (iii) beneficial ownership of such entity.
+- استفاده شخصی
+- استفاده آموزشی
+- استفاده تجاری
+- فروش نرم‌افزار یا خدمات مبتنی بر آن
+- تغییر، توسعه و شخصی‌سازی
+- ترکیب با پروژه‌های دیگر
+- انتشار نسخه اصلی یا تغییریافته
 
-      "You" (or "Your") shall mean an individual or Legal Entity
-      exercising permissions granted by this License.
+این اجازه مشروط به رعایت سایر شروط این لایسنس است.
 
-      "Source" form shall mean the preferred form for making modifications,
-      including but not limited to software source code, documentation
-      source, and configuration files.
+────────────────────────────────────────
+۲. حفظ اطلاعیه‌ها / Attribution
+────────────────────────────────────────
 
-      "Object" form shall mean any form resulting from mechanical
-      transformation or translation of a Source form, including but
-      not limited to compiled object code, generated documentation,
-      and conversions to other media types.
+در تمام نسخه‌های منتشرشده، این اطلاعیه‌ها باید حفظ شوند:
 
-      "Work" shall mean the work of authorship, whether in Source or
-      Object form, made available under the License, as indicated by a
-      copyright notice that is included in or attached to the work
-      (an example is provided in the Appendix below).
+- اطلاعیه کپی‌رایت
+- متن این لایسنس
+- اشاره به پروژه اصلی FileNazm / فایل‌نظم
 
-      "Derivative Works" shall mean any work, whether in Source or Object
-      form, that is based on (or derived from) the Work and for which the
-      editorial revisions, annotations, elaborations, or other modifications
-      represent, as a whole, an original work of authorship. For the purposes
-      of this License, Derivative Works shall not include works that remain
-      separable from, or merely link (or bind by name) to the interfaces of,
-      the Work and Derivative Works thereof.
+اگر نسخه باینری، نصب‌گر، اپلیکیشن یا بسته آماده توزیع می‌کنید، باید متن این لایسنس و اطلاعیه کپی‌رایت را همراه آن ارائه دهید.
 
-      "Contribution" shall mean any work of authorship, including
-      the original version of the Work and any modifications or additions
-      to that Work or Derivative Works thereof, that is intentionally
-      submitted to Licensor for inclusion in the Work by the copyright owner
-      or by an individual or Legal Entity authorized to submit on behalf of
-      the copyright owner. For the purposes of this definition, "submitted"
-      means any form of electronic, verbal, or written communication sent
-      to the Licensor or its representatives, including but not limited to
-      communication on electronic mailing lists, source code control systems,
-      and issue tracking systems that are managed by, or on behalf of, the
-      Licensor for the purpose of discussing and improving the Work, but
-      excluding communication that is conspicuously marked or otherwise
-      designated in writing by the copyright owner as "Not a Contribution."
+────────────────────────────────────────
+۳. محدودیت برند و علامت تجاری / Trademark Restriction
+────────────────────────────────────────
 
-      "Contributor" shall mean Licensor and any individual or Legal Entity
-      on behalf of whom a Contribution has been received by Licensor and
-      subsequently incorporated within the Work.
+هیچ حقی در خصوص علائم تجاری، نام‌ها، لوگوها، آیکون‌ها، هویت بصری یا برند پروژه فایل‌نظم به شما داده نمی‌شود.
 
-   2. Grant of Copyright License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      copyright license to reproduce, prepare Derivative Works of,
-      publicly display, publicly perform, sublicense, and distribute the
-      Work and such Derivative Works in Source or Object form.
+شما مجاز نیستید:
 
-   3. Grant of Patent License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      (except as stated in this section) patent license to make, have made,
-      use, offer to sell, sell, import, and otherwise transfer the Work,
-      where such license applies only to those patent claims licensable
-      by such Contributor that are necessarily infringed by their
-      Contribution(s) alone or by combination of their Contribution(s)
-      with the Work to which such Contribution(s) was submitted. If You
-      institute patent litigation against any entity (including a
-      cross-claim or counterclaim in a lawsuit) alleging that the Work
-      or a Contribution incorporated within the Work constitutes direct
-      or contributory patent infringement, then any patent licenses
-      granted to You under this License for that Work shall terminate
-      as of the date such litigation is filed.
+- نام FileNazm را به‌عنوان علامت تجاری، سرویس مارک، نام اپ، نام سرویس، نام دامنه، نام ناشر، نام فروشگاه، نام محصول یا هویت تجاری خود ثبت کنید.
+- نام فایل‌نظم را به‌عنوان برند، محصول، خدمت، کانال، اپلیکیشن یا هویت تجاری خود ثبت یا ادعا کنید.
+- از لوگو، آیکون، نام فارسی یا نام لاتین پروژه به‌گونه‌ای استفاده کنید که القا کند نسخه شما رسمی، تأییدشده، تولیدشده یا supported by سازنده اصلی است.
+- نسخه تغییریافته را با نام FileNazm یا فایل‌نظم منتشر کنید، مگر اینکه به‌صورت شفاف مشخص باشد که این نسخه رسمی نیست.
 
-   4. Redistribution. You may reproduce and distribute copies of the
-      Work or Derivative Works thereof in any medium, with or without
-      modifications, and in Source or Object form, provided that You
-      meet the following conditions:
+اگر نسخه تغییریافته‌ای منتشر می‌کنید، باید:
 
-      (a) You must give any other recipients of the Work or
-          Derivative Works a copy of this License; and
+- از نام متفاوت استفاده کنید.
+- مشخص باشد که پروژه بر پایه FileNazm / فایل‌نظم است.
+- تغییرات اعمال‌شده به‌صورت معقول ذکر شود.
+- هیچ‌گونه ادعای وابستگی، تأیید یا همکاری با سازنده اصلی مطرح نشود.
 
-      (b) You must cause any modified files to carry prominent notices
-          stating that You changed the files; and
+────────────────────────────────────────
+۴. توزیع نسخه تغییریافته / Modified Distributions
+────────────────────────────────────────
 
-      (c) You must retain, in the Source form of any Derivative Works
-          that You distribute, all copyright, patent, trademark, and
-          attribution notices from the Source form of the Work,
-          excluding those notices that do not pertain to any part of
-          the Derivative Works; and
+شما می‌توانید نسخه تغییریافته بسازید و حتی آن را تجاری کنید، اما:
 
-      (d) If the Work includes a "NOTICE" text file as part of its
-          distribution, then any Derivative Works that You distribute must
-          include a readable copy of the attribution notices contained
-          within such NOTICE file, excluding those notices that do not
-          pertain to any part of the Derivative Works, in at least one
-          of the following places: within a NOTICE text file distributed
-          as part of the Derivative Works; within the Source form or
-          documentation, if provided along with the Derivative Works; or,
-          within a display generated by the Derivative Works, if and
-          wherever such third-party notices normally appear. The contents
-          of the NOTICE file are for informational purposes only and
-          do not modify the License. You may add Your own attribution
-          notices within Derivative Works that You distribute, alongside
-          or as an addendum to the NOTICE text from the Work, provided
-          that such additional attribution notices cannot be construed
-          as modifying the License.
+- نباید باعث سوءبرداشت درباره نسخه رسمی شوید.
+- نباید نام یا برند فایل‌نظم را به‌عنوان برند خود ثبت کنید.
+- باید منبع اصلی پروژه را ذکر کنید.
+- باید تغییرات را به‌صورت معقول مشخص کنید.
 
-      You may add Your own copyright statement to Your modifications and
-      may provide additional or different license terms and conditions
-      for use, reproduction, or distribution of Your modifications, or
-      for any such Derivative Works as a whole, provided Your use,
-      reproduction, and distribution of the Work otherwise complies with
-      the conditions stated in this License.
+پیشنهاد می‌شود نسخه تغییریافته با نامی مانند این منتشر شود:
 
-   5. Submission of Contributions. Unless You explicitly state otherwise,
-      any Contribution intentionally submitted for inclusion in the Work
-      by You to the Licensor shall be under the terms and conditions of
-      this License, without any additional terms or conditions.
-      Notwithstanding the above, nothing herein shall supersede or modify
-      the terms of any separate license agreement you may have executed
-      with Licensor regarding such Contributions.
+    MyTool based on FileNazm
 
-   6. Trademarks. This License does not grant permission to use the trade
-      names, trademarks, service marks, or product names of the Licensor,
-      except as required for reasonable and customary use in describing the
-      origin of the Work and reproducing the content of the NOTICE file.
+یا:
 
-   7. Disclaimer of Warranty. Unless required by applicable law or
-      agreed to in writing, Licensor provides the Work (and each
-      Contributor provides its Contributions) on an "AS IS" BASIS,
-      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
-      implied, including, without limitation, any warranties or conditions
-      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
-      PARTICULAR PURPOSE. You are solely responsible for determining the
-      appropriateness of using or redistributing the Work and assume any
-      risks associated with Your exercise of permissions under this License.
+    ابزار من، بر پایه فایل‌نظم
 
-   8. Limitation of Liability. In no event and under no legal theory,
-      whether in tort (including negligence), contract, or otherwise,
-      unless required by applicable law (such as deliberate and grossly
-      negligent acts) or agreed to in writing, shall any Contributor be
-      liable to You for damages, including any direct, indirect, special,
-      incidental, or consequential damages of any character arising as a
-      result of this License or out of the use or inability to use the
-      Work (including but not limited to damages for loss of goodwill,
-      work stoppage, computer failure or malfunction, or any and all
-      other commercial damages or losses), even if such Contributor
-      has been advised of the possibility of such damages.
+و نه با نامی که کاربر را درباره رسمی بودن نسخه误导 کند.
 
-   9. Accepting Warranty or Additional Liability. While redistributing
-      the Work or Derivative Works thereof, You may choose to offer,
-      and charge a fee for, acceptance of support, warranty, indemnity,
-      or other liability obligations and/or rights consistent with this
-      License. However, in accepting such obligations, You may act only
-      on Your own behalf and on Your sole responsibility, not on behalf
-      of any other Contributor, and only if You agree to indemnify,
-      defend, and hold each Contributor harmless for any liability
-      incurred by, or claims asserted against, such Contributor by reason
-      of your accepting any such warranty or additional liability.
+────────────────────────────────────────
+۵. تعهد محدود سازنده برای قابلیت‌های تست‌شده
+Limited Commitment for Tested Features
+────────────────────────────────────────
 
-   END OF TERMS AND CONDITIONS
+سازنده تلاش کرده است نسخه ۱.۰.۰ فایل‌نظم را در محیط‌های مشخصی تست کند. فهرست قابلیت‌های تست‌شده در بخش «وضعیت تست» فایل README و در Release Notes نسخه ۱.۰.۰ آمده است.
 
-   APPENDIX: How to apply the Apache License to your work.
+برای همین نسخه، سازنده تعهد محدود زیر راaccept می‌کند:
 
-      To apply the Apache License to your work, attach the following
-      boilerplate notice, with the fields enclosed by brackets "[]"
-      replaced with your own identifying information. (Don't include
-      the brackets!)  The text should be enclosed in the appropriate
-      comment syntax for the file format. We also recommend that a
-      file or class name and description of purpose be included on the
-      same "printed page" as the copyright notice for easier
-      identification within third-party archives.
+اگر یکی از قابلیت‌های صریحاً تست‌شده در نسخه ۱.۰.۰، در محیط مشابه و با مراحل تکرارپذیر، مطابق مستندات کار نکند، سازنده تلاش معقول خواهد کرد تا:
 
-   Copyright [yyyy] [name of copyright owner]
+- مشکل را بررسی کند؛
+- در صورت تأیید باگ، تلاش معقول برای رفع آن در نسخه بعدی انجام دهد؛
+- در صورت امکان، راهنمایی یا آپدیت اصلاحی ارائه دهد.
 
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
+این تعهد:
 
-       http://www.apache.org/licenses/LICENSE-2.0
+- گارانتی مطلق نیست؛
+- تضمین عدم وجود باگ نیست؛
+- تضمین عملکرد بی‌وقفه نیست؛
+- شامل قابلیت‌هایی که صریحاً تست‌شده اعلام نشده‌اند نمی‌شود؛
+- جایگزین پشتیبان‌گیری کاربر نیست.
 
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
+────────────────────────────────────────
+۶. مسئولیت کاربر / User Responsibility
+────────────────────────────────────────
+
+فایل‌نظم ابزاری است که می‌تواند فایل‌ها را منتقل، کپی یا حذف کند. با استفاده از این نرم‌افزار، کاربر می‌پذیرد که:
+
+- مسئول پشتیبان‌گیری از فایل‌های مهم خود است.
+- مسئول تست قوانین روی پوشه‌های غیرحساسی پیش از استفاده واقعی است.
+- مسئول انتخاب صحیح پوشه نظارت، پوشه مقصد، پسوندها و نوع عملیات است.
+- مسئول بررسی رفتار برنامه در محیط واقعی خود است.
+- مسئول هرگونه خسارت ناشی از استفاده نادرست، پیکربندی اشتباه یا عدم پشتیبان‌گیری است.
+
+────────────────────────────────────────
+۷. سلب ضمانت / Disclaimer of Warranty
+────────────────────────────────────────
+
+به‌جز تعهد محدود مندرج در بند ۵، این نرم‌افزار «آنگونه که هست» و بدون هیچ‌گونه ضمانت صریح یا ضمنی ارائه می‌شود. این شامل، اما نه محدود به، ضمانت‌های ضمنی فروش‌پذیری، تناسب برای هدف خاص و عدم نقض حقوق دیگران می‌شود.
+
+سازنده ضمانت نمی‌کند که:
+
+- نرم‌افزار بدون خطا باشد؛
+- نرم‌افزار همیشه در همه محیط‌ها کار کند؛
+- از دست رفتن فایل رخ ندهد؛
+- آنتی‌ویروس، SmartScreen یا ابزارهای امنیتی هشدار ندهند؛
+- عملکرد نسخه تغییریافته توسط دیگران مورد تأیید سازنده باشد.
+
+────────────────────────────────────────
+۸. محدودیت مسئولیت / Limitation of Liability
+────────────────────────────────────────
+
+تا جایی که قانون اجازه می‌دهد، سازنده در قبال هرگونه خسارت مستقیم، غیرمستقیم، incidental، special، exemplary یا consequential ناشی از استفاده یا ناتوانی در استفاده از این نرم‌افزار مسئولیتی ندارد.
+
+این خسارت‌ها شامل موارد زیر می‌شوند:
+
+- از دست رفتن فایل
+- خرابی داده
+- از دست رفتن سود
+- از دست رفتن کسب‌وکار
+- هزینه بازیابی داده
+- خسارت ناشی از قوانین اشتباه کاربر
+- خسارت ناشی استفاده از قابلیت‌های تست‌نشده
+- خسارت ناشی از تغییرات اعمال‌شده توسط اشخاص ثالث
+
+────────────────────────────────────────
+۹. پذیرش و خاتمه / Acceptance and Termination
+────────────────────────────────────────
+
+با دانلود، نصب، استفاده، توزیع یا فروش این نرم‌افزار، شما این لایسنس را می‌پذیرید.
+
+اگر هر یک از شروط این لایسنس، به‌ویژه شروط مربوط به برند و علامت تجاری، نقض شود، اجازه استفاده شما به‌صورت خودکار خاتمه می‌یابد و باید استفاده، توزیع یا فروش ادامه‌دار را متوقف کنید.
+
+────────────────────────────────────────
+۱۰. وضعیت متن‌باز بودن / Open Source Status
+────────────────────────────────────────
+
+این لایسنس یک لایسنس اختصاصی source-available است. ممکن است با تعریف سازمان OSI از «نرم‌افزار متن‌باز» کاملاً مطابقت نداشته باشد، زیرا محدودیت‌های برند و نام دارد.
+
+با این حال، استفاده تجاری، تغییر و انتشار مجدد با رعایت شروط فوق مجاز است.
+
+────────────────────────────────────────
+پایان لایسنس
+────────────────────────────────────────
+
+© 2026 Hossein Moradi — All rights reserved.
+© ۲۰۲۶ حسین مرادی — تمامی حقوق محفوظ است.
