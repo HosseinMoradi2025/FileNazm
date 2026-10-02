@@ -88,8 +88,7 @@ D:\Sorted\{year}\{month}\{name}.{ext}
 ## نیازمندی‌ها
 
 - Windows 7 SP1 x64 یا نسخه‌های جدیدتر
--  برای نصب برنامه
--  -  Administratorدسترسی
+-  برای نصب برنامه  Administrator دسترسی
 
 نصب برنامه به دلیل قرارگیری در پوشه Program Files به دسترسی ادمین نیاز دارد.
 
