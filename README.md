@@ -1,5 +1,8 @@
 # 🗂️ فایل‌نظم | FileNazm — نرم‌افزار مرتب‌سازی خودکار فایل‌ها در ویندوز
 
+
+[![CodeQL](https://github.com/HosseinMoradi2025/FileNazm/actions/workflows/codeql.yml/badge.svg?branch=main)](https://github.com/HosseinMoradi2025/FileNazm/actions/workflows/codeql.yml)
+
 ✨ **فایل‌نظم** (FileNazm / فایل نظم) یک ابزار سبک و ویندوزی برای **مرتب‌سازی خودکار فایل‌ها** و **سازمان‌دهی خودکار پوشه‌ها** است. شما می‌توانید پوشه‌های مشخصی را زیر نظر بگیرید و قواعدی تعریف کنید تا فایل‌های جدید یا منتقل‌شده به‌صورت خودکار مرتب شوند.
 
 📁 انتقال فایل به پوشه مقصد  
