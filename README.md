@@ -200,15 +200,6 @@ D:\Sorted\{year}\{month}\{name}.{ext}
 
 ---
 
-## 🔤 فونت فارسی
-
-در این پروژه از هیچ فونت تجاری استفاده نشده است. فونت فارسی رایگان و متن‌باز پیشنهادی برای نمایش بهتر متن‌های فارسی، **وزیرمتن / Vazirmatn** تحت مجوز **SIL Open Font License** است.
-
-منبع رسمی فونت وزیرمتن:  
-[https://github.com/rastikerdar/vazirmatn](https://github.com/rastikerdar/vazirmatn)
-
----
-
 ## 📜 لایسنس اختصاصی فایل‌نظم | FileNazm Custom License 1.0
 
 فایل‌نظم | FileNazm تحت **لایسنس اختصاصی FileNazm Custom License 1.0** منتشر شده است.
