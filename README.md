@@ -11,12 +11,12 @@
 | پلتفرم هدف | Windows 7 SP1 x64 و نسخه‌های جدیدتر |
 | رابط کاربری | فارسی |
 | لایسنس | [لایسنس اختصاصی فایل‌نظم](https://github.com/HosseinMoradi2025/FileNazm/blob/main/LICENSE) |
-| تاریخ انتشار | ۱۱ اکتبر ۲۰۲ |
-| آخرین به‌روزرسانی این سند | ۲۱ اکتبر ۲۰۲۶ |
+| تاریخ انتشار | ۱۱ اکتبر ۲۰۶ |
+| آخرین به‌روزرسانی این سند | ۲۱ اکتبر ۲۰۲ |
 
 ---
 
-## 🎬 ویدیوی معرفی
+##  ویدیوی معرفی
 
 [تماشای ویدیوی معرفی فایل‌نظم در آپارات](https://aparat.com/v/lic841p)
 
@@ -82,7 +82,7 @@ D:\Sorted\{year}\{month}\{name}.{ext}
 - 📤 پوشهٔ دریافتی
 - 🖨️ پوشهٔ اسکن‌ها
 - 💼 پوشه فایل‌های کاری
--  پوشهٔ فاکتورها و مدارک
+- 🧾 پوشهٔ فاکتورها و مدارک
 - 📂 پوشه‌های پرمصرف و نامنظم
 - 🧹 پوشه‌های موقت و کاری
 
@@ -92,7 +92,7 @@ D:\Sorted\{year}\{month}\{name}.{ext}
 
 ۱. به [بخش Releases](https://github.com/HosseinMoradi2025/FileNazm/releases/tag/v1.0.0) مراجعه کنید.
 ۲. فایل `FileNazm_Setup.exe` را دانلود کنید.
-۳. اثر انگشت فایل را بررسی کنید (پایین‌تر).
+۳. اثر انگشت فایل را با مقدار مرجع پایین‌تر مقایسه کنید.
 ۴. فایل نصب را اجرا کنید.
 ۵. اگر پیام UAC نمایش داده شد، در صورت اطمینان از منبع فایل، گزینهٔ Yes را بزنید.
 ۶. مراحل نصب را کامل کنید.
@@ -100,7 +100,7 @@ D:\Sorted\{year}\{month}\{name}.{ext}
 - [📥 صفحهٔ انتشار نسخه 1.0.0](https://github.com/HosseinMoradi2025/FileNazm/releases/tag/v1.0.0)
 - [📥 دانلود مستقیم FileNazm_Setup.exe](https://github.com/HosseinMoradi2025/FileNazm/releases/download/v1.0.0/FileNazm_Setup.exe)
 
-### بررسی SHA256
+### اثر انگشت فایل (SHA256)
 
 مقدار درج‌شده در Release Notes نسخهٔ 1.0.0:
 
@@ -108,13 +108,7 @@ D:\Sorted\{year}\{month}\{name}.{ext}
 12fcc4329c6e0fede066490c622626b0c95c28e1f2f3667057abc20b9f7b1158
 ```
 
-در PowerShell (از داخل پوشه‌ای که فایل دانلود شده):
-
-```powershell
-Get-FileHash .\FileNazm_Setup.exe -Algorithm SHA256
-```
-
-اگر مقدار خروجی با مقدار بالا یکسان نبود، فایل را نصب نکنید و دوباره از لینک رسمی دانلود کنید.
+اگر اثر انگشت فایل دانلودشده با مقدار بالا یکسان نبود، فایل را نصب نکنید و دوباره از لینک رسمی دانلود کنید.
 
 ---
 
@@ -170,13 +164,13 @@ Get-FileHash .\FileNazm_Setup.exe -Algorithm SHA256
 
 فایل نصب `FileNazm_Setup.exe` پیش از انتشار در VirusTotal بررسی شد و برای بازبینی احتمال تشخیص اشتباه، درخواست بررسی False-Positive نزد تیم امنیتی مایکروسافت (Microsoft Defender / WDSI) ثبت شد.
 
-اعداد زیر، وضعیت **ثبت‌شده در تاریخ ۱۱ اکتبر ۲۰۲۶** هستند (پس از Reanalyze همان فایل با همان SHA256):
+اعداد زیر، وضعیت **ثبت‌شده در تاریخ ۱۱ اکتبر ۲۰۲** هستند (پس از Reanalyze همان فایل با همان SHA256):
 
 - **نتیجهٔ اولیه:** ۴ از ۷۱ موتور پرچم هیوریستیک/ML زده بودند.
 - **شمارهٔ پیگیری WDSI:** `f1052ab9-de72-4e2f-aea4-ab57588c4fed`
 - **وضعیت ثبت‌شده Microsoft Defender:** `Undetected`
 - **وضعیت ثبت‌شده Arctic Wolf:** `Undetected`
-- **وضعیت ثبت‌شده VirusTotal:** ۳ از ۱ موتور تشخیص
+- **وضعیت ثبت‌شده VirusTotal:** ۳ از ۷۱ موتور تشخیص
 - **حجم فایل نصب:** ۱۴٫۲۰ مگابایت
 - **SHA256:** `12fcc4329c6e0fede066490c622626b0c95c28e1f2f3667057abc20b9f7b1158`
 
@@ -274,6 +268,6 @@ Get-FileHash .\FileNazm_Setup.exe -Algorithm SHA256
 **حسین مرادی — رایان‌گستر مرادی**
 
 © 2026 Hossein Moradi — All rights reserved.
-© ۲۰۲ حسین مرادی — تمامی حقوق محفوظ است.
+© ۲۰۲۶ حسین مرادی — تمامی حقوق محفوظ است.
 
 **تماس با سازنده:** [info@rayangostarmoradi.ir](mailto:info@rayangostarmoradi.ir)
