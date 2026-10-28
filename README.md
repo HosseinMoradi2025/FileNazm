@@ -194,9 +194,9 @@ Get-FileHash .\FileNazm_1_1_0.exe -Algorithm SHA256
 
 ## 🔗 لینک‌های مفید
 
-- [سورس کد همین نسخه (1.1.0)](.)
+💻 - [سورس کد همین نسخه (1.1.0)](.)
 - [دانلود فایل نصب (بخش Releases)](../../releases)
-- [متن کامل لایسنس](LICENSE.txt)
+📜- [متن کامل لایسنس](LICENSE.txt)
 - [بخش نظرات و پرسش‌ها (Discussions)](../../discussions)
 - [گزارش VirusTotal](https://www.virustotal.com/gui/file/022394d48667bdfca7df2f6d97859cfd807e1209dbf24efd242fa2b561322352)
 - ویدیوی معرفی در آپارات
