@@ -248,7 +248,7 @@ D:\Sorted\{year}\{month}\{name}.{ext}
 - 💻 [سورس کد](https://github.com/HosseinMoradi2025/FileNazm)
 - 📥 [صفحهٔ انتشار نسخهٔ 1.0.0](https://github.com/HosseinMoradi2025/FileNazm/releases/tag/v1.0.0)
 - 📥 [دانلود مستقیم FileNazm_Setup.exe](https://github.com/HosseinMoradi2025/FileNazm/releases/download/v1.0.0/FileNazm_Setup.exe)
-- 📜 [متن کامل لایسنس](https://github.com/HosseinMoradi2025/FileNazm/blob/main/LICENSE)
+- 📜 [متن کامل لایسنس](https://github.com/HosseinMoradi2025/FileNazm/blob/v1.0.0/LICENSE.txt)
 - 💬 [بخش نظرات و پرسش‌ها](https://github.com/HosseinMoradi2025/FileNazm/discussions)
 - 💬 [نخستین بحث: Welcome to FileNazm Discussions](https://github.com/HosseinMoradi2025/FileNazm/discussions/1)
 - 🎬 [ویدیوی معرفی در آپارات](https://aparat.com/v/lic841p)
