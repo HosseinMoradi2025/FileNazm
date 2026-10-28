@@ -1,3 +1,0 @@
-# Runtime: no pip packages. CPython standard library with tkinter is required.
-# Build only: PyInstaller, in a separate build environment.
-# Windows 7 candidate: CPython 3.8.10 + PyInstaller 5.13.2 (not verified here).
