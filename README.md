@@ -220,7 +220,7 @@ Copy و Delete در همهٔ سناریوها، Recycle Bin در همهٔ سیس
 
 ## 📜 لایسنس اختصاصی فایل‌نظم
 
-فایل‌نظم تحت **لایسنس اختصاصی فایل‌نظم** منتشر می‌شود. متن کامل لایسنس در فایل [LICENSE](https://github.com/HosseinMoradi2025/FileNazm/blob/main/LICENSE) موجود است.
+فایل‌نظم تحت **لایسنس اختصاصی فایل‌نظم** منتشر می‌شود. متن کامل لایسنس در فایل [LICENSE](https://github.com/HosseinMoradi2025/FileNazm/1.0.0/main/LICENSE.txt) موجود است.
 
 این لایسنس شمارهٔ نسخه ندارد و برای انتشارهای فعلی و آتی، بدون نیاز به تغییر شمارهٔ نسخهٔ نرم‌افزار، قابل استفاده است.
 
@@ -257,7 +257,7 @@ Copy و Delete در همهٔ سناریوها، Recycle Bin در همهٔ سیس
 
 این لایسنس تابع قوانین جمهوری اسلامی ایران است.
 
-[📄 مشاهده متن کامل لایسنس](https://github.com/HosseinMoradi2025/FileNazm/blob/main/LICENSE)
+[📄 مشاهده متن کامل لایسنس](https://github.com/HosseinMoradi2025/FileNazm/1.0.0/main/LICENSE.txt)
 
 ---
 
@@ -265,7 +265,7 @@ Copy و Delete در همهٔ سناریوها، Recycle Bin در همهٔ سیس
 
 - 💻 [سورس کد فایل‌نظم](https://github.com/HosseinMoradi2025/FileNazm)
 - 📥 [دانلود فایل نصب نسخهٔ 1.0.0](https://github.com/HosseinMoradi2025/FileNazm/releases/tag/v1.0.0)
-- 📜 [متن کامل لایسنس](https://github.com/HosseinMoradi2025/FileNazm/blob/main/LICENSE)
+- 📜 [متن کامل لایسنس](https://github.com/HosseinMoradi2025/FileNazm/blob/1.0.0/LICENSE.txt)
 - 💬 [بخش نظرات و پرسش‌ها](https://github.com/HosseinMoradi2025/FileNazm/discussions)
 - 🎬 [ویدیوی معرفی در آپارات](https://aparat.com/v/lic841p)
 - 🔍 [گزارش VirusTotal](https://www.virustotal.com/gui/file/12fcc4329c6e0fede066490c622626b0c95c28e1f2f3667057abc20b9f7b1158/detection)
