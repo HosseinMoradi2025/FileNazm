@@ -79,8 +79,8 @@ D:\Sorted\{year}\{month}\{name}.{ext}
 - 📥 پوشهٔ دانلودها
 - 📤 پوشهٔ دریافتی
 - 🖨️ پوشهٔ اسکن‌ها
-- 💼 پوشه فایل‌های کاری
--  پوشهٔ فاکتورها و مدارک
+- 💼 پوشهٔ فایل‌های کاری
+- پوشهٔ فاکتورها و مدارک
 - 📂 پوشه‌های پرمصرف و نامنظم
 - 🧹 پوشه‌های موقت و کاری
 
@@ -88,11 +88,11 @@ D:\Sorted\{year}\{month}\{name}.{ext}
 
 ## 📦 دانلود و نصب
 
-۱. به بخش Releases پروژه مراجعه کنید.
-۲. فایل `FileNazm_Setup.exe` را دانلود کنید.
-۳. در صورت نیاز، اثر انگشت فایل را با SHA256 بررسی کنید.
-۴. فایل نصب را اجرا کنید.
-۵. اگر پیام UAC نمایش داده شد، در صورت اطمینان از منبع فایل، گزینهٔ Yes را بزنید.
+۱. به بخش Releases پروژه مراجعه کنید.  
+۲. فایل `FileNazm_Setup.exe` را دانلود کنید.  
+۳. در صورت نیاز، اثر انگشت فایل را با SHA256 بررسی کنید.  
+۴. فایل نصب را اجرا کنید.  
+۵. اگر پیام UAC نمایش داده شد، در صورت اطمینان از منبع فایل، گزینهٔ Yes را بزنید.  
 ۶. مراحل نصب را کامل کنید.
 
 - [📥 صفحهٔ انتشار نسخهٔ 1.0.0](https://github.com/HosseinMoradi2025/FileNazm/releases/tag/v1.0.0)
@@ -220,7 +220,7 @@ Copy و Delete در همهٔ سناریوها، Recycle Bin در همهٔ سیس
 
 ## 📜 لایسنس اختصاصی فایل‌نظم
 
-فایل‌نظم تحت **لایسنس اختصاصی فایل‌نظم** منتشر می‌شود. متن کامل لایسنس در فایل [LICENSE](https://github.com/HosseinMoradi2025/FileNazm/1.0.0/main/LICENSE.txt) موجود است.
+فایل‌نظم تحت **لایسنس اختصاصی فایل‌نظم** منتشر می‌شود. متن کامل لایسنس در فایل [LICENSE](https://github.com/HosseinMoradi2025/FileNazm/blob/v1.0.0/LICENSE.txt) موجود است.
 
 این لایسنس شمارهٔ نسخه ندارد و برای انتشارهای فعلی و آتی، بدون نیاز به تغییر شمارهٔ نسخهٔ نرم‌افزار، قابل استفاده است.
 
@@ -257,7 +257,7 @@ Copy و Delete در همهٔ سناریوها، Recycle Bin در همهٔ سیس
 
 این لایسنس تابع قوانین جمهوری اسلامی ایران است.
 
-[📄 مشاهده متن کامل لایسنس](https://github.com/HosseinMoradi2025/FileNazm/1.0.0/main/LICENSE.txt)
+[📄 مشاهده متن کامل لایسنس](https://github.com/HosseinMoradi2025/FileNazm/blob/v1.0.0/LICENSE.txt)
 
 ---
 
@@ -265,7 +265,7 @@ Copy و Delete در همهٔ سناریوها، Recycle Bin در همهٔ سیس
 
 - 💻 [سورس کد فایل‌نظم](https://github.com/HosseinMoradi2025/FileNazm)
 - 📥 [دانلود فایل نصب نسخهٔ 1.0.0](https://github.com/HosseinMoradi2025/FileNazm/releases/tag/v1.0.0)
-- 📜 [متن کامل لایسنس](https://github.com/HosseinMoradi2025/FileNazm/blob/1.0.0/LICENSE.txt)
+- 📜 [متن کامل لایسنس](https://github.com/HosseinMoradi2025/FileNazm/blob/v1.0.0/LICENSE.txt)
 - 💬 [بخش نظرات و پرسش‌ها](https://github.com/HosseinMoradi2025/FileNazm/discussions)
 - 🎬 [ویدیوی معرفی در آپارات](https://aparat.com/v/lic841p)
 - 🔍 [گزارش VirusTotal](https://www.virustotal.com/gui/file/12fcc4329c6e0fede066490c622626b0c95c28e1f2f3667057abc20b9f7b1158/detection)
@@ -282,7 +282,7 @@ Copy و Delete در همهٔ سناریوها، Recycle Bin در همهٔ سیس
 
 **حسین مرادی — رایان‌گستر مرادی**
 
-© 2026 Hossein Moradi — All rights reserved.
-© ۲۰۲ حسین مرادی — تمامی حقوق محفوظ است.
+© 2026 Hossein Moradi — All rights reserved.  
+© ۲۰۲۶ حسین مرادی — تمامی حقوق محفوظ است.
 
 **تماس با سازنده:** [info@rayangostarmoradi.ir](mailto:info@rayangostarmoradi.ir)
