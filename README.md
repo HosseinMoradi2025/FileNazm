@@ -207,4 +207,4 @@ Get-FileHash .\FileNazm_1_1_0.exe -Algorithm SHA256
 
 **حسین مرادی**
 © 2026 Hossein Moradi — All rights reserved.
-© ۲۰۲ حسین مرادی — تمامی حقوق محفوظ است.
+© حسین مرادی — تمامی حقوق محفوظ است.
