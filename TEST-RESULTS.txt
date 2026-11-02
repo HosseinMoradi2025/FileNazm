@@ -1,0 +1,43 @@
+test_no_removed_runtime_imports_and_python38_syntax (test_audit.AuditTests.test_no_removed_runtime_imports_and_python38_syntax) ... ok
+test_recycle_record_versions_and_restore (test_audit.AuditTests.test_recycle_record_versions_and_restore) ... ok
+test_copy_and_undo_removes_only_unchanged_copy (test_engine_safety.TestDestructiveOperationSafety.test_copy_and_undo_removes_only_unchanged_copy) ... ok
+test_copy_overwrite_and_undo_restores_old_destination (test_engine_safety.TestDestructiveOperationSafety.test_copy_overwrite_and_undo_restores_old_destination) ... ok
+test_copy_overwrite_stops_if_backup_fails (test_engine_safety.TestDestructiveOperationSafety.test_copy_overwrite_stops_if_backup_fails) ... ok
+test_cross_volume_overwrite_rolls_back_if_source_unlink_fails (test_engine_safety.TestDestructiveOperationSafety.test_cross_volume_overwrite_rolls_back_if_source_unlink_fails) ... ok
+test_move_and_undo_restores_original_source (test_engine_safety.TestDestructiveOperationSafety.test_move_and_undo_restores_original_source) ... ok
+test_move_overwrite_and_undo_restores_both_files (test_engine_safety.TestDestructiveOperationSafety.test_move_overwrite_and_undo_restores_both_files) ... ok
+test_move_overwrite_does_not_fallback_on_permission_error (test_engine_safety.TestDestructiveOperationSafety.test_move_overwrite_does_not_fallback_on_permission_error) ... ok
+test_move_overwrite_stops_if_backup_fails (test_engine_safety.TestDestructiveOperationSafety.test_move_overwrite_stops_if_backup_fails) ... ok
+test_permanent_delete_and_undo_restores_file (test_engine_safety.TestDestructiveOperationSafety.test_permanent_delete_and_undo_restores_file) ... ok
+test_permanent_delete_stops_if_backup_fails (test_engine_safety.TestDestructiveOperationSafety.test_permanent_delete_stops_if_backup_fails) ... ok
+test_undo_storage_is_isolated_per_process (test_engine_safety.TestDestructiveOperationSafety.test_undo_storage_is_isolated_per_process) ... ok
+test_date_template (test_model.TestDestination.test_date_template) ... ok
+test_extension_matches (test_model.TestMatches.test_extension_matches) ... ok
+test_extension_mismatch (test_model.TestMatches.test_extension_mismatch) ... ok
+test_size_limit (test_model.TestMatches.test_size_limit) ... ok
+test_name_clash_gets_suffix (test_model.TestSimulate.test_name_clash_gets_suffix) ... ok
+test_nonmatching_file_is_skipped (test_model.TestSimulate.test_nonmatching_file_is_skipped) ... ok
+test_rejects_rule_without_actions (test_model.TestValidate.test_rejects_rule_without_actions) ... ok
+test_docx_paragraph_tab_break_table_scope (test_replacements.DocumentTests.test_docx_paragraph_tab_break_table_scope) ... ok
+test_pdf_fails_closed (test_replacements.DocumentTests.test_pdf_fails_closed) ... ok
+test_pdf_literal_tokenizer (test_replacements.DocumentTests.test_pdf_literal_tokenizer) ... ok
+test_pdf_literals_arrays_flate (test_replacements.DocumentTests.test_pdf_literals_arrays_flate) ... ok
+test_pdf_unicode_cmap (test_replacements.DocumentTests.test_pdf_unicode_cmap) ... ok
+test_notification_utf16 (test_replacements.NativeTests.test_notification_utf16) ... ok
+test_real_directory_notifications_and_stop (test_replacements.NativeTests.test_real_directory_notifications_and_stop) ... ok
+test_recycle_abort_is_error_no_unlink (test_replacements.NativeTests.test_recycle_abort_is_error_no_unlink) ... ok
+test_gdi_text_and_scale (test_replacements.RasterTests.test_gdi_text_and_scale) ... ok
+test_gif_dictionary_growth_against_tk (test_replacements.RasterTests.test_gif_dictionary_growth_against_tk) ... ok
+test_gif_roundtrip_and_tk_independent_decoder (test_replacements.RasterTests.test_gif_roundtrip_and_tk_independent_decoder) ... ok
+test_lzw_boundaries_reset_random (test_replacements.RasterTests.test_lzw_boundaries_reset_random) ... ok
+test_flow_and_blocks (test_replacements.YAMLTests.test_flow_and_blocks) ... ok
+test_hostile_and_duplicate (test_replacements.YAMLTests.test_hostile_and_duplicate) ... ok
+test_legacy_indentless_yaml (test_replacements.YAMLTests.test_legacy_indentless_yaml) ... ok
+test_roundtrip_types (test_replacements.YAMLTests.test_roundtrip_types) ... ok
+test_demo_full_preview_and_themes_without_config_writes (test_ui_native.UITests.test_demo_full_preview_and_themes_without_config_writes) ... ok
+test_tray_lifecycle_and_explorer_restart (test_ui_native.UITests.test_tray_lifecycle_and_explorer_restart) ... ok
+
+----------------------------------------------------------------------
+Ran 38 tests in 24.558s
+
+OK
